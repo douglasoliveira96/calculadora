@@ -39,7 +39,7 @@ body::after {
     border-radius: 6px;
     overflow: hidden;
     z-index: 10;
-    backdrop-filter: blur(15px);;
+    backdrop-filter: blur(15px);
     border-top: 1px solid rgba(255, 255, 255, 0.02);
     border-left: 1px solid rgba(255, 255, 255, 0.02);
     box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
@@ -61,8 +61,8 @@ body::after {
     font-size: 30px;
     background: transparent;
     color: #fff;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-    border-right: 1px solid rgba(255, 255, 255, 0.5);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
 }
 .container .calculadora span 
 {
